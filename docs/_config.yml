@@ -1,0 +1,4 @@
+title: "シンプルサイト"
+description: "GitHub Pagesで公開"
+baseurl: ""  # ルートでホストする場合
+url: "https://your-username.github.io"
